@@ -1,4 +1,4 @@
-package VO;
+package com.techg.user.VO;
 
 import com.techg.user.entity.User;
 import lombok.AllArgsConstructor;
