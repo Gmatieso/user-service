@@ -1,4 +1,4 @@
-package VO;
+package com.techg.user.VO;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
