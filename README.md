@@ -1,0 +1,1 @@
+Responsible for managing user-related functionality. Its primary role is to handle user registration, authentication, authorization, and user profile management. The user service ensures secure and seamless interactions between users and the system, enhancing the overall user experience.
